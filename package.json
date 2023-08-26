@@ -1,0 +1,14 @@
+{
+  "name": "drag-drop-tool",
+  "version": "1.0.4",
+  "description": "Drag and drop tool",
+  "main": "src/index.js",
+  "keywords": [
+    "Drag",
+    "Drop",
+    "Tool",
+    "Frontend"
+  ],
+  "author": "Stelios Kakoliris",
+  "license": "MIT"
+}
