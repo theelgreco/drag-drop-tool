@@ -105,7 +105,7 @@ drag-box {
 
 And that's it, your page should now look a little something like this:
 
-![Six draggable boxes on a plain web page](./screenshot.png)
+![Six draggable boxes on a plain web page](https://raw.githubusercontent.com/theelgreco/drag-drop-tool/main/screenshot.png)
 
 And you are now able to re-order these boxes by dragging and placing in the desired position in the list
 
